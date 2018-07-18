@@ -1,9 +1,9 @@
 # Python_7424596_21
-#`# -like h1`
-##`## -like h2`
-###`###- like h3`
-*`*-like list item`
----`---  -> is like horizontal row`
+`# -like h1`
+`## -like h2`
+`###- like h3`
+`*-like list item`
+`---  -> is like horizontal row`
 `![picture](image-name)-insert an image`
 
 ```c
